@@ -23,6 +23,7 @@ Also, measurements of signals for the following variables were recorded:
 - fBodyAccJerkMag
 - fBodyGyroMag
 - fBodyGyroJerkMag
+
 Where -XYZ means that it is split into three variables (for the X, Y and Z direction) and every variable contains a separate column for the mean value and standard deviation.  
 
 ### Data source 
